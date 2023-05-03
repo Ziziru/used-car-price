@@ -1,0 +1,17 @@
+#Final delivery 3
+#https://www.kaggle.com/datasets/georgejnr/used-and-new-cars-datasets
+#Predicting price of Cars Sales
+#Tyler Rappaport, Yanjing Wang, Ziru Wang
+#Ban 5600: Advanced Big Data Computing and Programming 
+#Prof. Hamidreza Ahady Dolatsara
+#April 18, 2023
+
+Contents: 
+1. Ban 5600 Final Project.docx & .pdf are our groups written report 
+
+2. Predicting Cars Price Final Project V5.(Main).ipynb holds our groups main code 
+
+3. Predicting Cars Price Final Project V2.(Visuals).ipynb is an older version that holds visuals
+that were not able to be ported to the V5. doc. 
+
+4. car_data.csv is the data set we used 
